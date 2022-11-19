@@ -1,2 +1,12 @@
-# scrimba-nft_site
-This project was done to express html in javascript and ensured a clean code.
+# coddb4e28a38d246b90e9b9a5
+
+Quick start:
+
+```
+$ npm install
+$ npm start
+````
+
+Head over to https://vitejs.dev/ to learn more about using vite
+
+Happy Coding!
